@@ -18,5 +18,6 @@ npm run build
 ## Live Url
 
 ```
-# expanse-trackerP1.surge.sh
+# http://bootcamp2020-expanse-tracker-webapp.surge.sh
+# https://bootcamp2020-react-expanse-tracker.vercel.app
 ```
